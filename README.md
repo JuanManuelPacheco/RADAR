@@ -1,2 +1,2 @@
 # RADAR
-Coidigos de simulación para radiodetección.
+Códigos de simulación para radiodetección.
